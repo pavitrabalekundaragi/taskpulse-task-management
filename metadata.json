@@ -1,0 +1,8 @@
+{
+  "name": "Remix TaskPulse - Collaborative Task \u0026 Sprint Management",
+  "description": "Production-grade task management platform featuring Kanban board, list \u0026 calendar views, role-based authorization, live synchronization, and interactive task tutorials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
